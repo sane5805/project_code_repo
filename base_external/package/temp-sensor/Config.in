@@ -1,4 +1,4 @@
-config BR2_PACKAGE_SOCKET_COMMUNICATION
+config BR2_PACKAGE_TEMP_SENSOR
 	bool "temp-sensor"
 	help
 	    Includes the temperature sensor code
