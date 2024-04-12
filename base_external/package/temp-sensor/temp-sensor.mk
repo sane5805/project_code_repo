@@ -6,7 +6,7 @@
 ##############################################################
 
 #TODO: Fill up the contents below in order to reference your assignment 3 git contents
-TEMP_SENSOR_VERSION = 0f8eabae7e26ff963357e1a458315ad79eb78a67
+TEMP_SENSOR_VERSION = aaf3530754440eea3e040f4ae4ebee4fb01ef867
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:
