@@ -1,2 +1,3 @@
 source "$BR2_EXTERNAL_assignment_base_PATH/package/aesd-assignments/Config.in"
 source "$BR2_EXTERNAL_assignment_base_PATH/package/socket-communication/Config.in"
+source "$BR2_EXTERNAL_assignment_base_PATH/package/temp-sensor/Config.in"
